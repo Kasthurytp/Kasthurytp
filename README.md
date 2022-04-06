@@ -3,7 +3,9 @@
 - 👀 I’m interested in Web developement and Mobile application developement.
 
 - 🌱 I’m currently an undergrauate student at University of Sri jayewardenepura.
-- 💞️ I’m looking to collaborate with other developers
+
+- 💞️ I’m looking to collaborate with other developers.
+
 - 📫 Get in touch
 -       Email - t.kasthury66@gmail.com
 -       Linkedin - https://www.linkedin.com/in/kasthury-t-344842197/
