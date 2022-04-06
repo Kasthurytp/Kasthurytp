@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Kasthury T.
+
 - 👀 I’m interested in Web developement and Mobile application developement.
+
 - 🌱 I’m currently an undergrauate student at University of Sri jayewardenepura.
 - 💞️ I’m looking to collaborate with other developers
 - 📫 Get in touch
