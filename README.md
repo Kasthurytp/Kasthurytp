@@ -6,9 +6,7 @@
 
 - 💞️ I’m looking to collaborate with other developers.
 
-- 📫 Get in touch
--       Email - t.kasthury66@gmail.com
--       Linkedin - https://www.linkedin.com/in/kasthury-t-344842197/
+- 📫 Get in touch Email - t.kasthury66@gmail.com & Linkedin - https://www.linkedin.com/in/kasthury-t-344842197/
 
 <!---
 Kasthurytp/Kasthurytp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
